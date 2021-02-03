@@ -1,0 +1,2 @@
+com/sky/service/registry/ServiceRegistryApplication.java
+ com.sky.service.registry.ServiceRegistryApplication
