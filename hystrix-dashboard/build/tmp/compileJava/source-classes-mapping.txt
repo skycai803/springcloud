@@ -1,0 +1,2 @@
+com/sky/hystrix/dashboard/HystrixDashboardApplication.java
+ com.sky.hystrix.dashboard.HystrixDashboardApplication
