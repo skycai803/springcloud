@@ -1,0 +1,10 @@
+com/sky/department/service/DepartmentService.java
+ com.sky.department.service.DepartmentService
+com/sky/department/controller/DepartmentController.java
+ com.sky.department.controller.DepartmentController
+com/sky/department/repository/DepartmentRepository.java
+ com.sky.department.repository.DepartmentRepository
+com/sky/department/entity/Department.java
+ com.sky.department.entity.Department
+com/sky/department/DepartmentServiceApplication.java
+ com.sky.department.DepartmentServiceApplication
