@@ -1,5 +1,5 @@
 # springcloud
-Service discovery: Eureka /API Gateway/Hystrix/Sleuth/Zipkin
+Service discovery(Eureka) / API Gateway/ Hystrix/ Config Server(github)/ Sleuth-Zipkin
 ![Screenshot](msarch.png)
 ![Screenshot](springcloud.jpg)
 ![Screenshot](hystrix-dashboard.png)
